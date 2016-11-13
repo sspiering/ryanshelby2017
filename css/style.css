@@ -341,7 +341,7 @@ header {
 		position: absolute;
 	}	
 	.slider_item img {
-		display: none
+		display: none;
 	}
 	.slider_item {
 	}
@@ -350,7 +350,7 @@ header {
 		left: 100px;
 		right: 100px;
 		top: 0;
-		bottom: 0
+		bottom: 0;
 	}
 	.intro_slider .owl-buttons {
 		margin: -38px 0 0 0
@@ -362,7 +362,7 @@ header {
 	position:relative;
 	background-repeat:no-repeat;
 	background-position:center;
-    background-image: url("images/99H_4848.jpg");
+    background-image: url("../images/99H_4848.jpg");
 }
 	.inside_intro {
 		height: 50%;
