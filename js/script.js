@@ -42,7 +42,7 @@
 		var str = form.serialize(); 
 		$.ajax({
 			method: "POST",
-			url: "http://formspree.io/your@mail.com",
+			url: "http://formspree.io/sspiering6@mail.com",
 			data: dataString,
 			dataType: "json",
 			success: function() {
