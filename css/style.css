@@ -1308,6 +1308,7 @@ header {
 	.when_where_container {
 		z-index:2;
 		position:relative;
+      background: url( https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15039737_1779561535636139_7424878770345940187_o.jpg);
 		
 	}
 	.when_where_container .title3 {
