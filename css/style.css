@@ -341,7 +341,7 @@ header {
 		position: absolute;
 	}	
 	.slider_item img {
-		display: none;
+		display: none
 	}
 	.slider_item {
 	}
@@ -350,7 +350,7 @@ header {
 		left: 100px;
 		right: 100px;
 		top: 0;
-		bottom: 0;
+		bottom: 0
 	}
 	.intro_slider .owl-buttons {
 		margin: -38px 0 0 0
@@ -362,7 +362,7 @@ header {
 	position:relative;
 	background-repeat:no-repeat;
 	background-position:center;
-    background-image: url("../images/99H_4848.jpg");
+    background-image: url("images/99H_4848.jpg");
 }
 	.inside_intro {
 		height: 50%;
@@ -1303,6 +1303,7 @@ header {
 	background-position: center;
 }
 	.when_where .container {
+      background: url( https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/15039737_1779561535636139_7424878770345940187_o.jpg);
 	}
 	.when_where_container {
 		z-index:2;
