@@ -362,7 +362,7 @@ header {
 	position:relative;
 	background-repeat:no-repeat;
 	background-position:center;
-	background-attachment: fixed
+    background-image: url("images/99H_4848.jpg");
 }
 	.inside_intro {
 		height: 50%;
